@@ -2,6 +2,7 @@
 /**
  * Application entry point
  *
+ * Line 1
  * Example - run a particular store or website:
  * --------------------------------------------
  * require __DIR__ . '/app/bootstrap.php';
